@@ -1,3 +1,3 @@
 #!/bin/bash
 
-This file contains all the java related utils
+This file contains all the java related utils dependency
